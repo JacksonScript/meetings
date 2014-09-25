@@ -15,6 +15,7 @@ __fork this repository and submit pull requests to contribute__
 │       └── index.html                # the main page of the demo or presentation
 ├── 2015-02-01
 │   ├── location.json
+│   ├── Markdown Document Name.md
 │   └── Demo/Presentation Name
 │       └── index.html
 ├── Page Name.md                      # will be listed in home page buttons as "Page Name"
